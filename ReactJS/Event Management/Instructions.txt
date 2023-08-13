@@ -1,0 +1,2 @@
+Install Ant-Design on your project running the following code:
+npm install antd --save
